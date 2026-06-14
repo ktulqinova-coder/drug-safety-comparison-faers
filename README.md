@@ -11,8 +11,8 @@ With my background in pharmacy, I wanted to clear up a common misconception that
 3. **Visualized the data:** Built charts to make the numbers easy to read and compare.
 4. **Found hidden signals:** Compared unique serious reactions and found a severe side effect that remained unnoticed in the general noise.
 <img width="1489" height="690" alt="png" src="https://github.com/user-attachments/assets/50955bf1-9595-49e2-82f0-bf726c7183db" />
-## What I found
-- The noise is high:** If you just look at the top reactions, both drugs look exactly the same (nausea, pain, fatigue). You have to dig deeper.
+What I found
+- The noise is high: If you just look at the top reactions, both drugs look exactly the same (nausea, pain, fatigue). You have to dig deeper.
 - Unique profiles: When I filtered for unique serious reactions, ibuprofen showed specific issues like urticaria. Acetaminophen data was actually heavily skewed by combination drugs (like when it's mixed with opioids), showing signs of dependence.
 - Limitation: Basic counting isn't enough. Famous severe side effects (like liver issues for paracetamol) got completely lost in the shared "noise".
 
